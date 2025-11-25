@@ -1,7 +1,7 @@
 project: 
   type: website
   output-dir: docs
-
+ 
 website:
   title: "Nathan Perkins - Data Science Portfolio"
   favicon: Images/favicon.png
