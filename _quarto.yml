@@ -14,7 +14,7 @@ website:
     right: 
       - icon: linkedin
         href: https://linkedin.com/in/nathan-perkins1
- 
+
   navbar:
     background: primary
     search: true   
