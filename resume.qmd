@@ -2,7 +2,7 @@
 layout: cv
 title: Nathan Perkins' CV
 ---
-# Nathan Perkins
+# Nathan Perkins 
 Student, Aspiring Accounting Professional, Husband and Father.
 
 <div id="webaddress">
